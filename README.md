@@ -6,7 +6,7 @@ This Golang application calculates the optimal number of packs required to fulfi
 Only whole packs can be shipped.
 The minimum number of items should be shipped.
 The minimum number of packs should be used.
-The application includes a basic HTTP API and a simple UI for interacting with the calculation logic. Pack sizes are configurable for flexibility.
+The application includes a basic HTTP API and can include a simple UI for interacting with the calculation logic. Pack sizes are configurable for flexibility.
 
 ## Dependencies
 
